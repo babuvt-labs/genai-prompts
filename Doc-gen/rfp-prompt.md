@@ -1,4 +1,4 @@
-## Technical Requirements Document Creation
+## Request for Proposal Document Creation
 
 Please create a new **Technical Requirements Document** that strictly follows the formatting style and headings from the provided sample document. The headings must remain unchanged.
 
